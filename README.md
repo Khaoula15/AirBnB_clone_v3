@@ -157,7 +157,5 @@ No known bugs at this time.
 Khaoula OUARDI. github username: Khaoula15 &
 Jayeoba Paul. github username: Paulos-ui
 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
