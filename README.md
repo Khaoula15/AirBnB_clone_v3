@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Khaoula OUARDI. github username: Khaoula15 
+Khaoula OUARDI. github username: Khaoula15 &
 Jayeoba Paul. github username: Paulos-ui
 
 
